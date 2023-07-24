@@ -1,0 +1,6 @@
+--Blog website
+--CREATE - hamma blog qo'sha oladi
+-- Get  - hamma blogni kora oladi - necha marta ko'rilganligi bolishi kerak
+-- GETBYID - blogni id boyicha kora olish
+--Put - ozgartira olish
+--Delete - delete ochirib yuborish
